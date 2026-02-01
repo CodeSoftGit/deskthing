@@ -21,6 +21,11 @@ This is a custom Python and Qt6 based application for DeskThing.
 2. Run `sudo bash ./scripts/install.sh`
 3. Follow the prompts
 
+```bash
+git clone https://github.com/CodeSoftGit/deskthing.git
+cd deskthing
+sudo bash ./scripts/install.sh
+```
 
 ## To-Do
 - [ ] Physical knob support
